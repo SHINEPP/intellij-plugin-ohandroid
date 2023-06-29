@@ -1,9 +1,9 @@
-package com.github.shinepp.intellijpluginohandroid.services
+package com.github.shinepp.ohandroid.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.shinepp.intellijpluginohandroid.MyBundle
+import com.github.shinepp.ohandroid.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

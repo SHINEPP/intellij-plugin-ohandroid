@@ -1,4 +1,4 @@
-package com.github.shinepp.intellijpluginohandroid.toolWindow
+package com.github.shinepp.ohandroid.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.shinepp.intellijpluginohandroid.MyBundle
-import com.github.shinepp.intellijpluginohandroid.services.MyProjectService
+import com.github.shinepp.ohandroid.MyBundle
+import com.github.shinepp.ohandroid.services.MyProjectService
 import javax.swing.JButton
 
 

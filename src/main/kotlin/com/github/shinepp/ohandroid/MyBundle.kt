@@ -1,4 +1,4 @@
-package com.github.shinepp.intellijpluginohandroid
+package com.github.shinepp.ohandroid
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
